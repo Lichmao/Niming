@@ -1,0 +1,2 @@
+# Niming
+wordpress theme
